@@ -29,6 +29,7 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6",
     "pm2": "5.3.0",
+    "jwt-simple": "^0.5.6",
     "javascript-build-essentials": "1.0.0"
   },
   "keywords": [],
